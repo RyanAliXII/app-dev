@@ -1,2 +1,11 @@
-# app-dev
-My first repository
+# TV Series
+
+## Breaking Bad
+Mild-mannered high school chemistry teacher Walter White thinks his life can't get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.
+## The Boys
+Superheroes are often as popular as celebrities, as influential as politicians, and sometimes even as revered as gods. But that's when they're using their powers for good. What happens when the heroes go rogue and start abusing their powers? When it's the powerless against the super powerful, the Boys head out on a heroic quest to expose the truth about the Seven and Vought, the multibillion-dollar conglomerate that manages the superheroes and covers up their dirty secrets. Based on the comic book series of the same name.
+## Better Call Saul
+He wasn't always Saul Goodman, ace attorney for chemist-turned-meth dealer Walter White. Six years before he begins to represent Albuquerque's most notorious criminal, Goodman is Jimmy McGill, a small-time attorney hustling to make a name for himself. He's a forceful champion for his low-income clients, an underdog whose morals and ambitions often clash. Jimmy works with private eye Mike Ehrmantraut, a former Philadelphia cop and recent transplant to the Southwest. Mike has a specialized skill set -- he's a "fixer" of sticky situations -- that Jimmy soon learns to appreciate.
+## The Punisher
+After exacting revenge on the people responsible for the deaths of his wife and children, Frank Castle uncovers a conspiracy that runs deeper than New York's criminal underworld. Now known as the Punisher, he must dig deep into the conspiracy to discover the truth about injustices that affect more than just him and his family. Assisting the vigilante in his quest to fight criminals are best friend Billy Russo, who runs private military corporation Anvil, and former NSA analyst Micro, who shares common enemies with Castle and helps him as part of a so-called marriage of convenience.
+
